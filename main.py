@@ -17,14 +17,10 @@ def read_file(file_name):
     try:
         file = open(file_name, "r")
         for line in file:
-            row = line.split()
-            row[3] = int(row[3])
-            row[4] = int(row[4])
-            row[5] = int(row[5])
-            for i in range(len(line)):
-                if row[i].isdigit():
-                    movie_table.append(row)
-                return movie_table
+            row = line.split(',')
+            movie_table.append(row)
+        print(movie_table)
+        return movie_table
     except FileNotFoundError:
         print("File not found.")
         return
