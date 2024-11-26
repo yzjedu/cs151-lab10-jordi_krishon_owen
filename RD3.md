@@ -1,20 +1,19 @@
-ENCRYPTED:
-# Anounlcrxw Mxldvnwc
+# Reflection Document
 
-* Marena Oduu Wjvn: Tarbqxw Yrwtrwb
-* Yjacwna Oduu Wjvn: Sxamr Xfnw
-* Bcdmnwc RM: 001938622
+* Driver Full Name: Krishon Pinkins
+* Partner Full Name: Jordi Owen
+* Student ID: 001938622
 
-R fjb bdyyxbnm cx unjaw qxf cx fxat frcq anjm mjcj rw orun jwm lanjcn wnf mjcj oxa orun
-Vxanxena, R fjb bdyyxbnm cx unjaw qxf cx vjwrydujcn odwlcrxwb.
+I was supposed to learn how to work with read data in file and create new data for file
+Moreover, I was supposed to learn how to manipulate functions.
 
-Cqn bcnyb R oxuuxfnm fnan cx fxat cqaxdpq juu cqn qrpq unenu cjbtb, mnbrpw odwlcrxwb cx bxuen cqnv, jwm adw cqn odwlcrxwb rw j vjrw odwlcrxw. 
-Cqn cnlqwrzdnb R dbnm rw cqrb yaxpajv fjb orun anjmrwp, bcxarwp orun mjcj rw urbc, jwm nmrcrwp orun urwnb.
+The steps I followed were to work through all the high level tasks, design functions to solve them, and run the functions in a main function. 
+The techniques I used in this program was file reading, storing file data in list, and editing file lines.
 
-Vh anbducb vjclqnm fqjc R ngynlcnm cx pnc jocna dbrwp mroonanwc vncqxmb cx bxuen qrpq unenu cjbtb. 
-R carnm ejarxdb cnbc ljbnb.
+My results matched what I expected to get after using different methods to solve high level tasks. 
+I tried various test cases.
 
-Cqn lqjuunwpn R ojlnm cqn vxbc fjb orpdarwp xdc qxf cx xapjwrin orun mjcj rw cqn vxbc xycrvju fjh. 
-R mrm xenalxvn cqnv, jwm R mrm cqrb kh anonaarwp cx lujbb wxcnb.
+The challenge I faced the most was figuring out how to organize file data in the most optimal way. 
+I did overcome them, and I did this by referring to class notes.
 
-R fxatnm xw orabc qjuo xo lxmn jwm vh cnjv bqxdum kn mnbrpwrwp cqn bnlxwm qjuo jwm anounlcrxw.
+I worked on first half of code and my team should be designing the second half and reflection.
